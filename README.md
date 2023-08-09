@@ -1,1 +1,1 @@
-# tutorial
+# goit-homework-02
